@@ -1,0 +1,20 @@
+These are the steps i took to create my repo and upload files:
+
+step 1: I logged into my github account.
+step 2: i clicked on 'new'.
+Step 3: I created my remote repo on github named "PLPBasicAssignment" and initialized it with a 'read me.md' file.
+step 4: I went to my local device.
+step 4: Navigated to the target folder.
+step 5: i right clicked on an empty space in the folder, and clicked on "open git bash here". This directly opened gitbash on that directory.
+step 6: I cloned the github repo to my local device, "git clone https://github.com/butronx/PLPBasicGitAssignment.git".
+step 7: I fetched the cloned repo, "git fetch".
+step 7: I used the "git branch -a" command to confirm that the clone was properly done.
+step 8: I added all files to working area using, "git add . " command.
+step 9: I added a text file "hello.txt", edited it appropriately and saved it.
+step 10: I added my changes to staging area, "git add ." .
+step 11: I committed my changes, "git commit -m "added hello git text".
+step 12: I pushed my changes to remote repo, "git push origin".
+step 13: I entered my github credentials in the pop up window.
+step 14: When i received a return success message, i logged into my github and confirmed my changes, VOILA! it is there.
+step 15: I added this "Steps.txt" file, and commited it to the mainline branch.
+Q.E.D.
