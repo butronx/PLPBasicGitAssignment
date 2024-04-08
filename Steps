@@ -16,5 +16,5 @@ step 11: I committed my changes, "git commit -m "added hello git text".
 step 12: I pushed my changes to remote repo, "git push origin".
 step 13: I entered my github credentials in the pop up window.
 step 14: When i received a return success message, i logged into my github and confirmed my changes, VOILA! it is there.
-step 15: I added this "Steps.txt" file, and commited it to the mainline branch.
+step 15: I added this "Steps.txt" file DIRECTLY ON GITHUB, and commited it to the mainline branch, "master".
 Q.E.D.
